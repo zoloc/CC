@@ -1,0 +1,1 @@
+create_implement_list(ha_orgdb, haimpactdb)
